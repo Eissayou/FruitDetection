@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BananaAug2</folder>
+	<filename>banana_0_772.jpg</filename>
+	<path>C:\Users\eissa\Downloads\BananaAug2\banana_0_772.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>17</ymin>
+			<xmax>421</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>
